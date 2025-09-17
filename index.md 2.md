@@ -1,3 +1,3 @@
 # Home
 
-!Max Colaco(!(Colaco-Headshot.png))
+(Colaco-Headshot.png)
