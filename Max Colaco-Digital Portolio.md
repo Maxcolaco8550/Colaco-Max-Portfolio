@@ -1,3 +1,4 @@
+index.html
 # Home
 
 Max Colaco !(Colaco-Headshot.png)
@@ -9,4 +10,3 @@ Today I began to create my bill of materials which will be linked below. I am us
 
 Day 2:
 Today I also worked on my Bill of Materials and I found the Joystick and button types I am going to use. In order to get the retroarcade machine feeling I am purchasing the 30mm Push Button 3/16".
-
