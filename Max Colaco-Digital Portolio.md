@@ -1,7 +1,7 @@
 index.html
 # Home
 
-Max Colaco !(Colaco Headshot](image.png))
+(![Headshot](image.png)))
 
 Project Journals: 
 
