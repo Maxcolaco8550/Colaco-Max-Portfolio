@@ -2,7 +2,7 @@
 Advanced Topics Engineering. Senior Year [2026]
 # Home
 
-Max Colaco !(![Max Colaco Headshot](image.png))
+Max Colaco !(![Max Colaco Headshot]())
 
 Project Journals: 
 
